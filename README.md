@@ -17,4 +17,4 @@ Si ya contamos con una cuenta de Twitter vamos al sitio de [desarrolladores de T
 
 <img src="https://i.ibb.co/1XrhkZH/twitterdev.png">
 
-Ya que Twitter otorga credenciales de autenticación a aplicaciones, no a cuentas, debemos registrar la aplicación para poder realizar llamadas a la API.
+Ya que Twitter otorga credenciales de autenticación a aplicaciones, no a cuentas, debemos registrar la aplicación para poder realizar llamadas a la API. Para registrar la aplicación, vamos al sitio de [aplicaciones de Twitter](https://developer.twitter.com/en/apps) y seleccione la opción Crear una aplicación.
