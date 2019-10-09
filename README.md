@@ -1,2 +1,3 @@
-# Aonobird
-Use Flask and Angular to obtain user information and tweets.
+## Aonobird
+Use Flask and Angular to obtain and shoe user information and tweets.
+
