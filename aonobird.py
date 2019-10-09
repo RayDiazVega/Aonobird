@@ -7,10 +7,10 @@ class App:
 			api and allows us to extract information from users, 
 			their profiles and tweets.
 	"""
-	def __init__(self,  consumer_key="Us7zhN0xri00MuF1QtCt12tce", 
-											consumer_secret="k3f62VgDz51Kyq6chHKBllP49kQD5SY8PYG8kdPuUM1sDnxD5h",
-											access_token="959874859374465025-2nXZGhjvLiecGIbVmyrmB1W8adIIZOC",
-											access_token_secret="KV6Ok6DEHnfgjKh2GyIchK9WYtDUCefuaHkhBzYFaFMDC"):
+	def __init__(self,  consumer_key="", 
+											consumer_secret="",
+											access_token="",
+											access_token_secret=""):
 		
 		# Consumer API keys
 		self.__key = consumer_key
