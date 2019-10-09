@@ -13,6 +13,8 @@ pip3 install tweepy
 ## Crear credenciales de autenticación
 La API de Twitter requiere que todas las solicitudes usen OAuth para autenticarse, por lo tanto, se deben crear las credenciales de autenticación necesarias para poder utilizar la API.
 
-Si ya contamos con una cuenta de Twitter vamos al sitio de [desarrolladores de Twitter](https://developer.twitter.com/). Seguimos todos los pasos para obtener nuestra cunta de usuario.
+Si ya contamos con una cuenta de Twitter vamos al sitio de [desarrolladores de Twitter](https://developer.twitter.com/) y seguimos todos los pasos para obtener nuestra cuenta de desarrollador.
 
-<img src="https://drive.google.com/file/d/1MC317U9hRRlif8RlsA6Cwu7FvPyUprk0/view?usp=sharing">
+<img src="https://i.ibb.co/1XrhkZH/twitterdev.png">
+
+Ya que Twitter otorga credenciales de autenticación a aplicaciones, no a cuentas, debemos registrar la aplicación para poder realizar llamadas a la API.
