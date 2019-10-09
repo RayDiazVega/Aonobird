@@ -21,9 +21,13 @@ Ya que Twitter otorga credenciales de autenticación a aplicaciones, no a cuenta
 
 Seguimos los pasos y una vez creada la aplicación vamos a detalles para poder generar las credenciales.
 
+<img src="https://i.ibb.co/0m7BJdY/Captura-de-Pantalla-2019-10-09-a-la-s-5-49-17-p-m.png">
+
 En la pestaña Keys and tokens generamos las credenciales que necesitamos:
 
 * Consumer key
 * Consumer secret
 * Access token
 * Access secret
+
+<img src="https://i.ibb.co/0Msw8xh/Captura-de-Pantalla-2019-10-09-a-la-s-5-52-30-p-m.png">
